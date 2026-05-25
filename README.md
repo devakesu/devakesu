@@ -39,19 +39,6 @@ Sometimes I feel like a mix of:
 
 ---
 
-## 💭 Things I Believe In
-
-- Love is stronger than hate ❤️
-- Science should benefit humanity ⚛️
-- Mental health deserves serious attention 🧠
-- Education should evolve with society 📚
-- Creativity is as important as academics 🎨
-- Freedom of expression and identity matters 🏳️‍🌈
-- Technology should empower people, not control them 🌐
-- A better world is possible if enough people care ✨
-
----
-
 ## 🧪 Interests
 
 ### 👨‍💻 Tech
@@ -79,25 +66,6 @@ Sometimes I feel like a mix of:
 
 ---
 
-## 🚀 Currently
-
-- 🎓 Studying at Model Engineering College (MEC), Kochi
-- 📱 Building apps & experimenting with ideas
-- 🧠 Learning continuously beyond textbooks
-- 🌏 Trying to create things that genuinely help people
-
----
-
-## 🏗️ Projects & Goals
-
-- Build useful, beautiful software
-- Create inclusive communities
-- Spread awareness about mental health
-- Work on impactful technology
-- Contribute to a kinder and smarter future
-
----
-
 ## 🌈 Personality
 
 ```txt
@@ -110,18 +78,6 @@ Emotion-driven.
 Hopeful about the future.
 Always dreaming of something bigger.
 ```
-
----
-
-## 📌 Random Facts
-
-- I study science because I genuinely love it, not just for grades.
-- Kochi is one of my favorite places 🌴
-- I admire creative and open environments.
-- I enjoy deep conversations more than small talk.
-- I can go from debugging code to thinking about humanity at 3AM.
-
----
 
 ## 📫 Connect With Me
 
