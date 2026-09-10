@@ -3,7 +3,6 @@
 
 ```js
 const dev = {
-  pronouns: "they",
   age: 20,
   location: "Kochi, Kerala 🇮🇳",
   domains: [
@@ -14,12 +13,16 @@ const dev = {
     "Creativity",
     "Humanity"
   ],
+  pronouns: "they/them/theirs",
   currentMission:
     "Trying to build a better world with code, ideas, empathy & science."
 }
 ```
-
 ---
+
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ## 🌍 About Me
 
@@ -37,11 +40,32 @@ Sometimes I feel like a mix of:
 - 🌱 Environmentalist
 - 🌌 Dreamer
 
----
+</td>
+<td width="40%" valign="top">
+
+## 🌈 Personality
+```
+> Curious.  
+> Creative.  
+> Observant.  
+> Progressive.  
+> Overthinking sometimes.  
+> Emotion-driven.  
+> Hopeful about the future.  
+> Always dreaming of something bigger.
+```
+</td>
+</tr>
+</table>
 
 ## 🧪 Interests
 
+<table>
+<tr>
+<td width="33%" valign="top">
+
 ### 👨‍💻 Tech
+
 - Android App Development
 - Full-stack development
 - UI/UX experimentation
@@ -49,14 +73,22 @@ Sometimes I feel like a mix of:
 - Open-source tech
 - Productivity apps
 
+</td>
+<td width="33%" valign="top">
+
 ### 🔬 Science
+
 - Physics
 - Space & astronomy 🔭
 - Human psychology
 - Emerging technologies
 - Scientific innovation for humanity
 
+</td>
+<td width="33%" valign="top">
+
 ### 🎨 Creative Stuff
+
 - Design
 - Aesthetic interfaces
 - Music 🎵
@@ -64,20 +96,11 @@ Sometimes I feel like a mix of:
 - Creative campuses & communities
 - Meaningful conversations at 2AM 🌙
 
+</td>
+</tr>
+</table>
+
 ---
-
-## 🌈 Personality
-
-```txt
-Curious.
-Creative.
-Observant.
-Progressive.
-Overthinking sometimes.
-Emotion-driven.
-Hopeful about the future.
-Always dreaming of something bigger.
-```
 
 ## 📫 Connect With Me
 
